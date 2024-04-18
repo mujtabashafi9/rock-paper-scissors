@@ -19,9 +19,6 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
-function endResult() {
-    
-}
 
 function playGame() {
     let playerscore = 0;
